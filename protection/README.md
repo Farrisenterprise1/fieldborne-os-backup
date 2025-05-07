@@ -11,3 +11,9 @@ This folder contains cryptographic proof that the Fieldborne OS package is prote
 - File: `Fieldborne_OS_Full_Protected_Package_SHA256.ots`
 - This file is an OpenTimestamps receipt proving the SHA-256 hash existed at the time of timestamping.
 - Use [OpenTimestamps.org](https://opentimestamps.org) to verify the proof of existence.
+This certificate ensures the integrity and authorship of the Fieldborne OS package, timestamped immutably via the Bitcoin blockchain for long-term proof of existence and protection.
+---
+
+**Added cryptographic validation files and documentation for Fieldborne OS.**  
+This includes the SHA-256 checksum and an OpenTimestamps receipt for verifiable proof of existence.  
+Ensures immutability, authorship integrity, and blockchain timestamp verification of the protected package.
